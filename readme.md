@@ -71,9 +71,9 @@ Passionate developer exploring automation, security, and clean code. I enjoy bui
 
 <div align="center">
 
-| 🐱 Cats | 🎨 Stickers | ⌨️ Keyboards |
-|:-------:|:-----------:|:------------:|
-| I love them | Collector | Mechanical enthusiast |
+| 🐱 Cats | 🎨 Stickers | ⌨️ Keyboards | 🎨 [Dotfiles](https://github.com/Dxsk/dotenv) |
+|:-------:|:-----------:|:------------:|:--------------------------------------------:|
+| I love them | Collector | Mechanical enthusiast | Kanagawa x Gruvbox |
 
 </div>
 
