@@ -52,15 +52,18 @@ French developer passionate about IT systems, automation, and cybersecurity. I e
 <tr>
 <td width="50%">
 
-**[shallow](https://github.com/Dxsk/shallow)**  
-🏁 Easy CTF challenge
+**[shallow](https://github.com/Dxsk/shallow)**
+🏁 Easy CTF challenge - Give it a try ;)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </td>
 <td width="50%">
 
-*More projects coming soon...*
+**[kvm-cli-scripts](https://github.com/Dxsk/kvm-cli-scripts)**
+🖥️ Interactive bash scripts for KVM/QEMU VM management via libvirt
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
 </tr>
@@ -89,10 +92,12 @@ Can't work without music — it's impossible for me. Electronic beats fuel my co
 | Genre | Vibe |
 |:-----:|:----:|
 | 🇫🇷 French Touch | Groovy & funky |
-| 💥 Dubstep / Brostep | Heavy drops |
+| 💥 Dubstep / Brostep / Riddim | Heavy drops |
 | ⚡ Hardcore | Pure energy |
+| 🎤 US Rap | Raw & gritty |
+| 🔥 Frapcore | French rap chaos |
 
-**Some artists I love:** Danger, Subtronics, HVDES, Xplosn, Ganja White Night, Virtual Riot, MUST DIE!, Jessica Audiffred, Cream, Koxinhell, Zissou, Contrefaçon, MC Spyda
+**Some artists I love:** Danger, Subtronics, HVDES, Xplosn, Ganja White Night, Virtual Riot, MUST DIE!, Jessica Audiffred, Cream, Koxinhell, Zissou, Contrefaçon, MC Spyda, REDZED, Mossback
 
 #### 🔥 Currently Vibing To
 
@@ -100,8 +105,14 @@ Can't work without music — it's impossible for me. Electronic beats fuel my co
 
 | Track | Artist |
 |:-----:|:------:|
-| [![Danger - 11h30](https://img.shields.io/badge/11h30-Danger-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | French Touch masterpiece |
-| [![Subtronics - Spacetime](https://img.shields.io/badge/Spacetime-Subtronics-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/1mMb7sXuzalIUjgVEwrPL3) | Heavy bass chaos |
+| [![Danger - 4:30](https://img.shields.io/badge/4:30-Danger-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/0lO8ZTS4kNYa9eOSC1QYQi) | French Touch masterpiece |
+| [![Danger - 11:30 (datA Remix)](https://img.shields.io/badge/11:30_(datA_Remix)-Danger-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/album/4mUw8uTQUtT1fLIfilo14s) | French Touch masterpiece |
+| [![Subtronics - Spacetime (feat. NEVVE)](https://img.shields.io/badge/Spacetime_(feat._NEVVE)-Subtronics-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/0yotOi6EFaBal5Gy7YVcuI) | Heavy bass chaos |
+| [![Subtronics & Illenium - Got Away](https://img.shields.io/badge/Got_Away-Subtronics_&_Illenium-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/5lIW37wg5kwRWcbUYlTpuP) | Melodic riddim |
+| [![Mossback - Gravewalker's Anthem](https://img.shields.io/badge/Gravewalker's_Anthem-Mossback-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/6OTDAmLV4GSN7RP6LVlXFl) | Dark energy |
+| [![REDZED](https://img.shields.io/badge/REDZED-REDZED-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3FCo1sUkVbwKnO2m0Z7Bp9) | US rap vibes |
+| [![Terror Reid - MAKIN ME SICK](https://img.shields.io/badge/MAKIN_ME_SICK-Terror_Reid-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/4h5verLVMS3akVVs2kLNyJ) | Raw vibes |
+| [![Fugue 451 - Von Bikrav Remix](https://img.shields.io/badge/Fugue_451_(Von_Bikrav_Remix)-Frapcore-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/6JCOqwT5W10Wc7SMP1DGv9) | Frapcore heat |
 
 </div>
 
