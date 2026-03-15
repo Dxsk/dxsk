@@ -60,7 +60,7 @@ I care about **free software** and **open source**, and I try to follow, learn f
 
 | Project | Description |
 |:--------|:------------|
-| [go-organizer-linux](https://github.com/Dxsk/go-organizer-linux) | Game library organizer for Linux |
+| [go-organizer-linux](https://github.com/Dxsk/go-organizer-linux) | Dofus organizer for Linux, fork of [Rhyyn/go-organizer](https://github.com/Rhyyn/go-organizer) (Windows) |
 
 ---
 
