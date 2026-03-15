@@ -35,32 +35,32 @@ I care about **free software** and **open source**, and I try to follow, learn f
 
 ### Security
 
-| Project | Description |
-|:--------|:------------|
-| [CloudRip](https://github.com/Dxsk/CloudRip) | Cloud asset discovery tool, major fork of [moscovium-mc/CloudRip](https://github.com/moscovium-mc/CloudRip) |
-| [shallow](https://github.com/Dxsk/shallow) | Easy CTF challenge, give it a try |
-| [CVE-2024-41817-poc](https://github.com/Dxsk/CVE-2024-41817-poc) | Proof of concept for CVE-2024-41817 |
+| Project | Tags | Description |
+|:--------|:-----|:------------|
+| [CloudRip](https://github.com/Dxsk/CloudRip) | `cloud` `recon` `cli` `api` `sdk` | Cloud asset discovery tool to find real IPs behind Cloudflare by checking subdomains. Added key components (CLI, API, SDK) to make it chainable with other tools. Major fork with contributions pushed upstream to [moscovium-mc/CloudRip](https://github.com/moscovium-mc/CloudRip) |
+| [shallow](https://github.com/Dxsk/shallow) | `ctf` `golang` | A small CTF challenge written in Go, give it a try |
+| [CVE-2024-41817-poc](https://github.com/Dxsk/CVE-2024-41817-poc) | `cve` `imagemagick` | Proof of concept for CVE-2024-41817, arbitrary code execution in ImageMagick <= 7.1.1-35 |
 
 ### Systems
 
-| Project | Description |
-|:--------|:------------|
-| [repos-manager](https://github.com/Dxsk/repos-manager) | Git repositories manager |
-| [ansible-manager](https://github.com/Dxsk/ansible-manager.sh) | Bash wrapper for Ansible, vault management & playbook execution |
-| [kvm-cli-scripts](https://github.com/Dxsk/kvm-cli-scripts) | Interactive bash scripts for KVM/QEMU VM management via libvirt |
-| [git-identity-manager](https://github.com/Dxsk/git-identity-manager) | CLI tool to switch between git identities per repository using fzf |
+| Project | Tags | Description |
+|:--------|:-----|:------------|
+| [repos-manager](https://github.com/Dxsk/repos-manager) | `git` `nix` | Template-based CLI tool to clone and sync git repositories across providers (GitHub, GitLab, Gitea, Forgejo) with Nix flake support |
+| [ansible-manager](https://github.com/Dxsk/ansible-manager.sh) | `ansible` `vault` | Bash wrapper that simplifies Ansible workflows, handles vault encryption/decryption and playbook execution in a single command |
+| [kvm-cli-scripts](https://github.com/Dxsk/kvm-cli-scripts) | `virsh` `kvm` `qemu` | Interactive bash scripts to manage KVM/QEMU virtual machines via libvirt, from creation to snapshots |
+| [git-identity-manager](https://github.com/Dxsk/git-identity-manager) | `git` `fzf` | Simple CLI tool to switch between multiple git identities per repository using fzf |
 
 ### Learning
 
-| Project | Description |
-|:--------|:------------|
-| [git-chronicles](https://github.com/Dxsk/git-chronicles) | Learning git through practice, [git.learning.dxscloud.fr](https://git.learning.dxscloud.fr) |
+| Project | Tags | Description |
+|:--------|:-----|:------------|
+| [git-chronicles](https://github.com/Dxsk/git-chronicles) | `git` `docs` | Gamified documentation to learn git through hands-on practice, [git.learning.dxscloud.fr](https://git.learning.dxscloud.fr) |
 
 ### Gaming
 
-| Project | Description |
-|:--------|:------------|
-| [go-organizer-linux](https://github.com/Dxsk/go-organizer-linux) | Dofus organizer for Linux, fork of [Rhyyn/go-organizer](https://github.com/Rhyyn/go-organizer) (Windows) |
+| Project | Tags | Description |
+|:--------|:-----|:------------|
+| [go-organizer-linux](https://github.com/Dxsk/go-organizer-linux) | `dofus` `golang` | Dofus organizer ported from Windows to Linux, rewriting Windows kernel calls to native Linux equivalents. Fork of [Rhyyn/go-organizer](https://github.com/Rhyyn/go-organizer) |
 
 ---
 
