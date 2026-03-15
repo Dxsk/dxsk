@@ -23,7 +23,7 @@
 🇫🇷 French IT guy and aspiring entrepreneur with a strong interest in **Linux systems**.
 I like working with **VMs**, **containers**, **automation**, and pretty much anything infrastructure-related.
 
-I code in **Python**, **Go** and **Bash**, and I'm currently learning **Rust**.
+I code in **Python**, **Go** and **Bash**, and I'm currently learning **Rust**. I also enjoy writing **tooling** to solve everyday problems.
 
 I'm also into **offensive and defensive cybersecurity**, from kernel hardening and AppArmor/SELinux to ACLs and firewalling.
 
@@ -48,6 +48,7 @@ I care about **free software** and **open source**, and I try to follow, learn f
 | [repos-manager](https://github.com/Dxsk/repos-manager) | Git repositories manager |
 | [ansible-manager](https://github.com/Dxsk/ansible-manager.sh) | Bash wrapper for Ansible, vault management & playbook execution |
 | [kvm-cli-scripts](https://github.com/Dxsk/kvm-cli-scripts) | Interactive bash scripts for KVM/QEMU VM management via libvirt |
+| [git-identity-manager](https://github.com/Dxsk/git-identity-manager) | CLI tool to switch between git identities per repository using fzf |
 
 ### Learning
 
