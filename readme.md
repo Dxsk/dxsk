@@ -5,6 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -45,10 +46,17 @@ I care about **free software** and **open source**, and I try to follow, learn f
 
 | Project | Tags | Description |
 |:--------|:-----|:------------|
-| [repos-manager](https://github.com/Dxsk/repos-manager) | `git` `nix` | Template-based CLI tool to clone and sync git repositories across providers (GitHub, GitLab, Gitea, Forgejo) with Nix flake support |
+| [repos-manager](https://github.com/Dxsk/repos-manager) | `git` `bash` `cli` | One CLI to sync them all - clone and manage Git repos from GitHub, GitLab, Forgejo, Bitbucket and Radicle. Parallel sync, status, self-update. [repos-manager.dxscloud.fr](https://repos-manager.dxscloud.fr) |
 | [ansible-manager](https://github.com/Dxsk/ansible-manager.sh) | `ansible` `vault` | Bash wrapper that simplifies Ansible workflows, handles vault encryption/decryption and playbook execution in a single command |
 | [kvm-cli-scripts](https://github.com/Dxsk/kvm-cli-scripts) | `virsh` `kvm` `qemu` | Interactive bash scripts to manage KVM/QEMU virtual machines via libvirt, from creation to snapshots |
 | [git-identity-manager](https://github.com/Dxsk/git-identity-manager) | `git` `fzf` | Simple CLI tool to switch between multiple git identities per repository using fzf |
+| [dotenv](https://github.com/Dxsk/dotenv) | `hyprland` `stow` `linux` | CachyOS + Hyprland + Caelestia Shell - Dragon Fire desktop managed with GNU Stow |
+
+### Tools
+
+| Project | Tags | Description |
+|:--------|:-----|:------------|
+| [mtd](https://github.com/Dxsk/mtd) | `python` `markdown` `docs` | Yet another Markdown to Documents converter. Lightweight, themeable, and API-ready |
 
 ### Learning
 
