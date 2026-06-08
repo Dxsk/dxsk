@@ -75,7 +75,7 @@ I care about **digital sovereignty**, **free software**, and keeping infrastruct
 [![Clever Cloud - Cloud Concepts 101](https://img.shields.io/badge/Clever_Cloud-Cloud_Concepts_101-EF4823?style=for-the-badge&logo=clevercloud&logoColor=white)](https://certopus.com/c/0e33a695bba4481682137ea099831e8a)
 [![Clever Cloud - Advanced Deployment Recipes](https://img.shields.io/badge/Clever_Cloud-Advanced_Deployment_Recipes-EF4823?style=for-the-badge&logo=clevercloud&logoColor=white)](https://certopus.com/c/91721f4acf844d66ba4151a7d02c4a8a)
 
-*Clever Cloud (sovereign EU cloud) - Deployment Essentials track. Verified on Certopus.*
+*Certifications from @CleverCloud (sovereign EU cloud) - Deployment Essentials track. Verified on Certopus.*
 
 ---
 
