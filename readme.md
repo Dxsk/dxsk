@@ -4,6 +4,8 @@
 
 *aka Dx · Daihyxsk · Dorian W.*
 
+[![Profile views](https://komarev.com/ghpvc/?username=Dxsk&label=Profile%20views&color=2EA043&style=flat-square)](https://github.com/Dxsk)
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
