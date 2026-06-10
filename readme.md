@@ -35,6 +35,11 @@ I care about **digital sovereignty**, **free software**, and keeping infrastruct
 
 **Open source by conviction, not by trend.** Privacy is a human right.
 
+🛡️ **Offensive security** · bug bounty & CTF challenges
+
+[![YesWeHack](https://img.shields.io/badge/YesWeHack-daihyxsk-E1003C?style=for-the-badge&labelColor=000000&logoColor=white)](https://yeswehack.com/hunters/daihyxsk)
+[![Root-Me](https://img.shields.io/badge/Root--Me-dxsk-000000?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/dxsk)
+
 ---
 
 ### Featured
