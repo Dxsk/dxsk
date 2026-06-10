@@ -57,6 +57,7 @@ I care about **digital sovereignty**, **free software**, and keeping infrastruct
 | [CVE-2024-41817-poc](https://github.com/Dxsk/CVE-2024-41817-poc) | `cve` `imagemagick` | Automated detection and exploitation tool for CVE-2024-41817 (ImageMagick arbitrary code execution). Original CVE discovered by the ImageMagick security team - this repo provides the tooling. |
 | [CloudRip](https://github.com/Dxsk/CloudRip) | `cloud` `recon` `cli` `api` `sdk` | Cloud asset discovery tool to find real IPs behind Cloudflare. Added CLI, API and SDK components to make it chainable. Major fork with contributions pushed upstream to [moscovium-mc/CloudRip](https://github.com/moscovium-mc/CloudRip) |
 | [shallow](https://github.com/Dxsk/shallow) | `ctf` `golang` | A small CTF challenge written in Go, give it a try |
+| [ywh-dojo-51-DeadBolt](https://github.com/Dxsk/ywh-dojo-51-DeadBolt) | `ywh-dojo` `writeup` `rce` `nodejs` | Writeup of YesWeHack Dojo #51 (DeadBolt) - Zip path traversal (CWE-22) in a Node.js plugin system leading to RCE through a yauzl misconfiguration. |
 | [bonjour-la-fuite](https://bonjourlafuite.eu.org) | `web` `privacy` `FR` | Public registry of data breaches affecting French organizations, by [aeris](https://framagit.org/aeris). Contributed a UI overhaul - search and filters by name, date, status and type, redesigned entry cards and a header with leak counter - via [MR !16](https://framagit.org/aeris/bonjour-la-fuite/-/merge_requests/16) |
 
 ### Systems & Tooling
