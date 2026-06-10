@@ -31,7 +31,7 @@ I spend my days deploying open source stacks, writing CLI tools, and automating 
 
 I code in **Python**, **Go** and **Bash**. I also enjoy **offensive and defensive security**, from kernel hardening to exploit development.
 
-I care about **digital sovereignty**, **free software**, and keeping infrastructure under control - not in someone else's cloud. Currently building **[Infra Souveraine](https://www.infrasouveraine.fr/)**, my managed infrastructure practice built on open source and self-hosting for small businesses, as a member of [Babel.coop](https://babel.coop) - a cooperative that lets me stay independent without being alone. Open to freelance missions, training, and open source collaboration.
+I care about **digital sovereignty**, **free software**, and keeping infrastructure under control - not in someone else's cloud. Currently building **[Infra Souveraine](https://www.infrasouveraine.fr/)**, my managed infrastructure practice built on open source and self-hosting for small businesses, as a member of [Babel.coop](https://babel.coop) - a cooperative that lets me stay independent without being alone. $\textcolor{#2EA043}{\textsf{Open to freelance missions}}$, training, and open source collaboration.
 
 **Open source by conviction, not by trend.** Privacy is a human right.
 
