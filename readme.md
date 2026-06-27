@@ -46,6 +46,7 @@ I care about **digital sovereignty**, **free software**, and keeping infrastruct
 
 | Project | Tags | Description |
 |:--------|:-----|:------------|
+| [bwsshd](https://github.com/Dxsk/bwsshd) | `go` `ssh` `bitwarden` `cli` | Keep your `ssh_config` in sync with SSH keys stored in your Bitwarden vault, pinning one key per host to survive hardened servers with low `MaxAuthTries`. Watch-mode daemon, Vaultwarden support and systemd user service. |
 | [repos-manager](https://github.com/Dxsk/repos-manager) | `git` `bash` `cli` | One CLI to sync them all - clone and manage Git repos from GitHub, GitLab, Forgejo, Bitbucket and Radicle. Parallel sync, namespace mirroring, status overview, self-update. [repos-manager.dxscloud.fr](https://repos-manager.dxscloud.fr) |
 | [git-chronicles](https://github.com/Dxsk/git-chronicles) | `git` `education` `FR/EN` | A free, bilingual (FR/EN) Git course with a fantasy narrative. 29 quests from `git init` to CI/CD and Radicle, with cheatsheets and hands-on verification scripts. Started as a course for two friends, grew into a full open source project. [git.learning.dxscloud.fr](https://git.learning.dxscloud.fr) |
 | [dotenv-sec](https://github.com/Dxsk/dotenv-sec) | `pentest` `cli` `docker` `bash` | Pentest environment launcher - one CLI for tmux sessions, MITM proxy, isolated Chromium and Exegol integration. Security-hardened Docker images with CI/Trivy scanning. |
